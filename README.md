@@ -12,3 +12,5 @@ Integrasi Romberg adalah teknik yang digunakan dalam integrasi numerik. Integras
 ![image](https://user-images.githubusercontent.com/92387421/209123747-50fe2822-f8c4-462b-a881-efa07d8a5eef.png)
 
 Kolom pertama pada tabel memuat hampiran integral tentu dengan menggunakan aturan trapesium rekursif. Kolom kedua merupakan hampiran integral yang sama dengan aturan Simpson rekursif (perbaikan pertama). Kolom ketiga merupakan hampiran integral yang sama dengan dengan aturan Boole rekursif (perbaikan kedua). Kolom keempat merupakan perbaikan ketiga, Demikian seterusnya.
+
+## Penjelasan Singkat
