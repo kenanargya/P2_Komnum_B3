@@ -1,6 +1,6 @@
 # P2_Komnum_B3
 
-#### Kelompok 3
+#### Anggota Kelompok 3
 | | Nama  | NRP |
 | ------------- | ------------- | ------------- |
 | 1 | Ken Anargya Alkausar | 5025211168 |
