@@ -13,4 +13,14 @@ Integrasi Romberg adalah teknik yang digunakan dalam integrasi numerik. Integras
 
 Kolom pertama pada tabel memuat hampiran integral tentu dengan menggunakan aturan trapesium rekursif. Kolom kedua merupakan hampiran integral yang sama dengan aturan Simpson rekursif (perbaikan pertama). Kolom ketiga merupakan hampiran integral yang sama dengan dengan aturan Boole rekursif (perbaikan kedua). Kolom keempat merupakan perbaikan ketiga, Demikian seterusnya.
 
+
+![image](https://user-images.githubusercontent.com/92387421/209201643-ff142159-da78-428f-a839-fdcf3d578d49.png)
+
 ## Penjelasan Singkat
+  1.  Pertama-tama dilakukan import modul integrate dari library scipy pada python
+  2.  Kemudian dibuat variabel function untuk menginput fungsi yang akan dijalankan
+  3.  Lalu didefinisikan fungsi f dengan parameter x, dengan f berisikan fungsi yang telah diinput dari variabel function
+  4.  Selanjutnya dibuat variabel x untuk menginput batas bawah integrasi
+  5.  Kemudian dibuat variabel y untuk menginput batas atas integrasi
+  6.  Lalu dibuat variabel romberg sebagai fungsi dari integrasi romberg yang berisikan modul integrate dari library scipy dengan parameter yang berisikan fungsi f dan variabel x dan y
+  7.  Kemudian output akan ditampilkan dengan show = True
